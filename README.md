@@ -1,2 +1,2 @@
 # obesity-prediction-system
-Graduation Projet - Obesity Level Prediction Using AI
+Graduation Project - Obesity Level Prediction Using AI
