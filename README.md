@@ -1,2 +1,2 @@
 # obesity-prediction-system
-Graduation Prohect - Obesity Level Prediction Using AI
+Graduation Prohejt - Obesity Level Prediction Using AI
